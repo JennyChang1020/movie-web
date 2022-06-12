@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@import './styles/normalize.scss';
+
+// 匯入primeNG樣式
+@import '../node_modules/primeng/resources/themes/lara-light-blue/theme.css';
+@import '../node_modules/primeng/resources/primeng.css';
+@import '../node_modules/primeicons/primeicons.css';
